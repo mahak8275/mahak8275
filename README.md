@@ -138,6 +138,12 @@
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/mahak-goswami-43925525b/
 
+## 📊 GitHub Stats
+
+![Mahak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahak8275&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahak8275&layout=compact&theme=tokyonight)
+
 💻 **GitHub:**  
 https://github.com/mahak8275
 
